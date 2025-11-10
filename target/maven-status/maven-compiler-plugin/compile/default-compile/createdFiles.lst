@@ -1,0 +1,13 @@
+nl/blitz/fantasybattle/Stats.class
+nl/blitz/fantasybattle/Armor.class
+nl/blitz/fantasybattle/Equipment.class
+nl/blitz/fantasybattle/Target.class
+nl/blitz/fantasybattle/Player.class
+nl/blitz/fantasybattle/Damage.class
+nl/blitz/fantasybattle/Item.class
+nl/blitz/fantasybattle/BasicItem.class
+nl/blitz/fantasybattle/SimpleArmor.class
+nl/blitz/fantasybattle/Buff.class
+nl/blitz/fantasybattle/BasicBuff.class
+nl/blitz/fantasybattle/Inventory.class
+nl/blitz/fantasybattle/SimpleEnemy.class
