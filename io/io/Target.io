@@ -1,3 +1,0 @@
-Target := Object clone do(
-
-)
